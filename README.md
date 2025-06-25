@@ -1,2 +1,2 @@
-#  Sistema de Gestão de Tarefas com Kanban + Notificações + Relatórios
+#  Sistema-de-Gestão-de-Tarefas-com-Kanban 
 
